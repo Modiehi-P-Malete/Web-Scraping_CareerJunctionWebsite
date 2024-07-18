@@ -20,3 +20,5 @@ If you search for "Software Engineer", the script will scrape the first page of 
 Notes:
 Ensure that you have a stable internet connection while running the script to fetch data from CareerJunction.
 The CSV file will be created or overwritten each time you run the script, so ensure you save or rename it with the correct page number if needed.
+
+I have included 2 csv's that I've extracted using my program in my repo, so you can check them out as well.
